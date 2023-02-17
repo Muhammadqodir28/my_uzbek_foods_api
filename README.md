@@ -7,7 +7,9 @@ My <a href="https://github.com/Muhammadqodir28/my_uzbek_foods_api">GitHub</a></b
 I had to work with the Api and it turned out well.
 
 ## Description
-I used Laravel framework and Postman for documentation, which helped me in this project.
+I used Laravel framework and Postman for documentation, which helped me in this project.</br>
+(Why did I choose Uzbek foods ?)</br>
+Because before I have studied programming, I had been a cook for three years. :)
 
 ## Installation
 Nothing needs to be installed. Because here everything is ready.</br>
@@ -15,13 +17,13 @@ If you want, then you have to install <a href="https://getcomposer.org/">Compose
 
 ## Usage
 Go to the project directory:
-
+```
 cd uzbek_foods_api
-
+```
 Start the server:
-
+```
 php artisan serve
-
+```
 
 ### The Core Team
 
